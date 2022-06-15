@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jun 2022 03:50:53 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VS Code Debugger for Rust Setup Notes.</title>
+      <link>http://example.org/post/rust-debugger/</link>
+      <pubDate>Thu, 16 Jun 2022 03:50:53 +0800</pubDate>
+      
+      <guid>http://example.org/post/rust-debugger/</guid>
+      <description>Instructions  Install extensions below:  rust-analyzer (rust-lang.rust-analyzer) Microsoft C++ (ms-vscode.cpptools) (for Windows) CodeLLDB (vadimcn.vscode-lldb) (for Unix-like OS) Add breakpoints Press Debug button | launch rust-analyzer: debug  Problems I encountered launch.json not automatically created After a correct installing, launch.json should be created at the first time running debugger.
+If VS Code warned that you didn&amp;rsquo;t have a corresponding debugger extension, the reason might be that you installed a C++ extension not compatitive to your OS.</description>
+    </item>
+    
+    <item>
+      <title>How to build a hugo site?</title>
+      <link>http://example.org/post/howtobuildahugosite/</link>
+      <pubDate>Thu, 26 May 2022 02:43:33 +0800</pubDate>
+      
+      <guid>http://example.org/post/howtobuildahugosite/</guid>
+      <description>How? Follow the instructions in this post</description>
+    </item>
+    
+    <item>
+      <title>First time?</title>
+      <link>http://example.org/post/first_time/</link>
+      <pubDate>Thu, 26 May 2022 02:38:44 +0800</pubDate>
+      
+      <guid>http://example.org/post/first_time/</guid>
+      <description>First time? GO WATCH MAD MAX, RIGHT NOW. </description>
+    </item>
+    
+  </channel>
+</rss>
