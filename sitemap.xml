@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://choucw045.github.io/categories/</loc>
     <lastmod>2022-06-16T03:50:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/develop/</loc>
+    <loc>https://choucw045.github.io/</loc>
     <lastmod>2022-06-16T03:50:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://choucw045.github.io/categories/develop/</loc>
     <lastmod>2022-06-16T03:50:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://choucw045.github.io/post/</loc>
     <lastmod>2022-06-16T03:50:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/rust/</loc>
+    <loc>https://choucw045.github.io/tags/rust/</loc>
     <lastmod>2022-06-16T03:50:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://choucw045.github.io/tags/</loc>
     <lastmod>2022-06-16T03:50:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/rust-debugger/</loc>
+    <loc>https://choucw045.github.io/post/rust-debugger/</loc>
     <lastmod>2022-06-16T03:50:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/howtobuildahugosite/</loc>
+    <loc>https://choucw045.github.io/post/howtobuildahugosite/</loc>
     <lastmod>2022-05-26T02:43:33+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>https://choucw045.github.io/tags/hugo/</loc>
     <lastmod>2022-05-26T02:43:33+08:00</lastmod>
   </url>
 </urlset>
