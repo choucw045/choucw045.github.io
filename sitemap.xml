@@ -28,8 +28,5 @@
   </url><url>
     <loc>http://example.org/tags/hugo/</loc>
     <lastmod>2022-05-26T02:43:33+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/post/first_time/</loc>
-    <lastmod>2022-05-26T02:38:44+08:00</lastmod>
   </url>
 </urlset>

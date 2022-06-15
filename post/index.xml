@@ -26,14 +26,5 @@ If VS Code warned that you didn&amp;rsquo;t have a corresponding debugger extens
       <description>How? Follow the instructions in this post</description>
     </item>
     
-    <item>
-      <title>First time?</title>
-      <link>http://example.org/post/first_time/</link>
-      <pubDate>Thu, 26 May 2022 02:38:44 +0800</pubDate>
-      
-      <guid>http://example.org/post/first_time/</guid>
-      <description>First time? GO WATCH MAD MAX, RIGHT NOW. </description>
-    </item>
-    
   </channel>
 </rss>
