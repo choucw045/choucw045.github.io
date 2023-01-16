@@ -6,7 +6,17 @@
     <description>Recent content on Choucw045&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jun 2022 03:50:53 +0800</lastBuildDate><atom:link href="https://choucw045.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 23:43:23 +0800</lastBuildDate><atom:link href="https://choucw045.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leetcode Note</title>
+      <link>https://choucw045.github.io/post/leetcode-note/</link>
+      <pubDate>Mon, 16 Jan 2023 23:43:23 +0800</pubDate>
+      
+      <guid>https://choucw045.github.io/post/leetcode-note/</guid>
+      <description>Just to keep articles I read.
+ Leetcode 刷題筆記 Ithome鐵人賽 - 從LeetCode學演算法 Programming Interview Questions  </description>
+    </item>
+    
     <item>
       <title>VS Code Debugger for Rust Setup Notes.</title>
       <link>https://choucw045.github.io/post/rust-debugger/</link>
